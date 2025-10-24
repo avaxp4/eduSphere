@@ -1,0 +1,32 @@
+{
+  "name": "eduplatform---المنصة-التعليمية",
+  "private": true,
+  "version": "1.0.0",
+  "description": "منصة تعليمية تفاعلية لعرض الوسائط التعليمية والملخصات والكتب والمحتوى المرئي بطريقة عصرية وجذابة.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "lucide-react": "^0.546.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  },
+  "keywords": [
+    "education",
+    "platform",
+    "learning",
+    "teaching",
+    "content-management"
+  ],
+  "author": "EduSphere Team",
+  "license": "MIT"
+}

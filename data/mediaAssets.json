@@ -1,0 +1,51 @@
+{
+  "mediaTypes": [
+    {
+      "id": "image",
+      "name": "صورة",
+      "description": "ملفات الصور مثل JPG, PNG, GIF"
+    },
+    {
+      "id": "video",
+      "name": "فيديو",
+      "description": "ملفات الفيديو مثل MP4, AVI, MOV"
+    },
+    {
+      "id": "file",
+      "name": "ملف",
+      "description": "ملفات متنوعة مثل PDF, DOC, PPT"
+    },
+    {
+      "id": "youtube",
+      "name": "يوتيوب",
+      "description": "روابط فيديوهات يوتيوب"
+    }
+  ],
+  "mediaCategories": [
+    {
+      "id": "explanation",
+      "name": "شرح",
+      "description": "فيديوهات أو مواد شرح للمفاهيم"
+    },
+    {
+      "id": "solution",
+      "name": "حل",
+      "description": "حلول تمارين وأمثلة"
+    },
+    {
+      "id": "exams",
+      "name": "امتحانات",
+      "description": "نماذج امتحانات سابقة"
+    },
+    {
+      "id": "summaries",
+      "name": "ملخصات",
+      "description": "ملخصات للدروس والموضوعات"
+    },
+    {
+      "id": "review",
+      "name": "مراجعة",
+      "description": "مواد مراجعة نهائية"
+    }
+  ]
+}

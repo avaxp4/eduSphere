@@ -1,0 +1,85 @@
+[
+  {
+    "id": "arabic",
+    "name": "لغة عربية",
+    "teacher": "أ. محمد عبدالله",
+    "image": "https://picsum.photos/seed/arabic/600/400",
+    "media": [
+      { "id": 1, "title": "شرح قصيدة المساء", "type": "youtube", "category": "شرح", "src": "https://www.youtube.com/embed/dQw4w9WgXcQ" },
+      { "id": 2, "title": "ملخص قواعد النحو", "type": "file", "category": "ملخصات", "src": "123.pdf", "description": "ملف PDF شامل لأهم قواعد النحو والصرف." },
+      { "id": 3, "title": "امتحان تجريبي", "type": "file", "category": "امتحانات", "src": "arabic-practice-exam.docx", "description": "نموذج امتحان مطابق لمواصفات الاختبار النهائي." },
+      { "id": 4, "title": "خريطة ذهنية للبلاغة", "type": "image", "category": "مراجعة", "src": "arabic-rhetoric-mindmap.png" }
+    ]
+  },
+  {
+    "id": "english",
+    "name": "لغة انجليزية",
+    "teacher": "Ms. Sarah Johnson",
+    "image": "https://picsum.photos/seed/english/600/400",
+    "media": [
+      { "id": 1, "title": "Grammar Review", "type": "video", "category": "مراجعة", "src": "english-grammar-review.mp4" },
+      { "id": 2, "title": "حل قطعة الفهم", "type": "image", "category": "حل", "src": "english-comprehension-solution.jpg", "description": "صورة توضح طريقة حل قطعة الفهم." }
+    ]
+  },
+  {
+    "id": "math",
+    "name": "رياضيات",
+    "teacher": "أ. أحمد المصري",
+    "image": "https://picsum.photos/seed/math/600/400",
+    "media": [
+      { "id": 1, "title": "شرح التكامل", "type": "youtube", "category": "شرح", "src": "https://www.youtube.com/embed/u_C4h-6MvjE" },
+      { "id": 2, "title": "مراجعة ليلة الامتحان - جبر", "type": "video", "category": "مراجعة", "src": "math.mp4", "description": "ملزمة مراجعة نهائية في الجبر والهندسة الفراغية." }
+    ]
+  },
+  {
+    "id": "science",
+    "name": "علوم متكاملة",
+    "teacher": "أ. فاطمة علي",
+    "image": "https://picsum.photos/seed/science/600/400",
+    "media": [
+      { "id": 1, "title": "تجربة كيميائية", "type": "video", "category": "شرح", "src": "science-chemical-experiment.mp4" },
+      { "id": 2, "title": "ملخص قوانين الفيزياء", "type": "image", "category": "ملخصات", "src": "physics-laws-summary.png" }
+    ]
+  },
+  {
+    "id": "history",
+    "name": "تاريخ",
+    "teacher": "أ. خالد السيد",
+    "image": "https://picsum.photos/seed/history/600/400",
+    "media": [
+      { "id": 1, "title": "شرح الحملة الفرنسية", "type": "youtube", "category": "شرح", "src": "https://www.youtube.com/embed/9g_239T1z4E" }
+    ]
+  },
+  {
+    "id": "philosophy",
+    "name": "فلسفة ومنطق",
+    "teacher": "أ. علي حسن",
+    "image": "https://picsum.photos/seed/philosophy/600/400",
+    "media": []
+  },
+  {
+    "id": "religion",
+    "name": "تربية دينية",
+    "teacher": "الشيخ/ محمود ياسين",
+    "image": "https://picsum.photos/seed/religion/600/400",
+    "media": []
+  },
+  {
+    "id": "french",
+    "name": "لغة فرنسية",
+    "teacher": "M. Jean-Pierre",
+    "image": "https://picsum.photos/seed/french/600/400",
+    "media": []
+  },
+  {
+    "id": "ai",
+    "name": "برمجة وذكاء اصطناعي",
+    "teacher": "أ. هادي نورالدين",
+    "image": "https://picsum.photos/seed/ai/600/400",
+    "media": [
+      { "id": 1, "title": "Introduction to Python", "type": "youtube", "category": "شرح", "src": "https://www.youtube.com/embed/kqtD5dpn9C8" },
+      { "id": 2, "title": "Machine Learning Basics", "type": "file", "category": "ملخصات", "src": "ml-basics-summary.pdf", "description": "PDF summary of key ML concepts." },
+      { "id": 3, "title": "Neural Network Diagram", "type": "image", "category": "شرح", "src": "neural-network-diagram.png" }
+    ]
+  }
+]
